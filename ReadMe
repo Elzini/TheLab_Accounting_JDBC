@@ -1,0 +1,4 @@
+Maven JDBC feature with MySQL.
+1. Connection with DB with try/catch.
+2. Adding data to the DB with statement.executeUpdate(sql);
+3. Prepared Statements: PreparedStatement statement = conn.prepareStatement(sql))
